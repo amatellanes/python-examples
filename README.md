@@ -23,5 +23,5 @@ Si necesitas un tutorial sobre Python puedes visitar cualquiera de los siguiente
 Ejemplos
 ---------
 
-* `leer_parse_url` - abrir una URL y *parsear* la página para explorar su contenido usando [urllib2](http://docs.python.org/2/library/urllib2.html) y [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/).
+* `leer_parse_url` - abrir una URL y *parsear* la página para explorar su contenido usando [urllib2](http://docs.python.org/2/library/urllib2.html) y [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/). Para más información sobre este *script* puedes visitar mi [blog](http://amatellanes.wordpress.com/2013/03/18/beautifulsoup-para-explorar-paginas-web-con-python/).
 
