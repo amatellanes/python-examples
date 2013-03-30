@@ -24,4 +24,6 @@ Ejemplos
 ---------
 
 * `leer_parse_url` - abrir una URL y *parsear* la página para explorar su contenido usando [urllib2](http://docs.python.org/2/library/urllib2.html) y [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/). Para más información sobre este *script* puedes visitar mi [blog](http://amatellanes.wordpress.com/2013/03/18/beautifulsoup-para-explorar-paginas-web-con-python/).
+* `xmlrpc_server.py` - crear un WebService que recibe una cantidad en euros (EUR) y la convierte a dólares (USD). El código del cliente está disponible en `xmlrpc_client.py`. Para más información sobre este *script* puedes visitar mi [blog](http://amatellanes.wordpress.com/2013/03/30/usando-xml-rpc-con-python/ "Usando XML-RPC con Python").
+* `xmlrpc_client.py` - crear un WebService que recibe una cantidad en euros (EUR) y la convierte a dólares (USD). El código del servidor está disponible en `xmlrpc_server.py`. Para más información sobre este *script* puedes visitar mi [blog](http://amatellanes.wordpress.com/2013/03/30/usando-xml-rpc-con-python/ "Usando XML-RPC con Python").
 
